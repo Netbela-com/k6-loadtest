@@ -1,6 +1,6 @@
 # k6-loadtest
 
-Deze repository bevat een load testing script met [k6](https://k6.io/) om de prestaties van restaurantwebsites te meten. Het wordt specifiek gebruikt om de webhosting pakketten van **Netbela** te testen onder realistische gebruikersbelasting, met een geleidelijke opbouw en afbouw van het verkeer.
+Deze repository bevat een load testing script met [k6](https://k6.io/) om de prestaties van restaurantwebsites te meten. Het wordt specifiek gebruikt om de [webhosting pakketten](https://netbela.com/webhosting) van [**Netbela**](https://netbela.com) te testen onder realistische gebruikersbelasting, met een geleidelijke opbouw en afbouw van het verkeer.
 
 ## Kenmerken
 - Instelbaar aantal gelijktijdige gebruikers (virtual users, VUs) om verschillende verkeersniveaus te simuleren
